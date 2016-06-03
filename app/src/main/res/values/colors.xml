@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorBottomNavigationPrimary">#3F51B5</color>
+    <color name="colorBottomNavigationPrimaryDark">#303F9F</color>
+    <color name="colorBottomNavigationAccent">#00886A</color>
+    <color name="colorBottomNavigationInactive">#747474</color>
+    <color name="colorBottomNavigationActiveColored">#FFFFFF</color>
+    <color name="colorBottomNavigationInactiveColored">#50FFFFFF</color>
+    <color name="colorBottomNavigationNotification">#00886A</color>
+    <color name="colorBottomNavigationRed">#F44336</color>
+    <color name="colorBottomNavigationBlueGrey">#607D8B</color>
+    <color name="colorBottomNavigationTeal">#009688</color>
+    <color name="colorBottomNavigationBrown">#795548</color>
+    <color name="colorBottomNavigationGrey">#9E9E9E</color>
 </resources>

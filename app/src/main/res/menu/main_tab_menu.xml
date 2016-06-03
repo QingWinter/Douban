@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottomBarMovie"
+        android:icon="@drawable/ic_video_label_white_24dp"
+        android:title="Movies" />
+    <item
+        android:id="@+id/bottomBarMusic"
+        android:icon="@drawable/ic_music_note_white_24dp"
+        android:title="Musics" />
+    <item
+        android:id="@+id/bottomBarBook"
+        android:icon="@drawable/ic_book_white_24dp"
+        android:title="Books" />
+    <item
+        android:id="@+id/bottomBarMine"
+        android:icon="@drawable/ic_book_white_24dp"
+        android:title="Books" />
+</menu>
